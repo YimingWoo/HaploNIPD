@@ -1,2 +1,2 @@
-# NIPT-M
-Universal noninvasive prenatal diagnosis for monogenic disorders using cell-free plasma DNA
+# HaploNIPT
+scripts in use for "Universal noninvasive prenatal diagnosis for monogenic disorders using cell-free plasma DNA"
